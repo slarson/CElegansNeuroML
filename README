@@ -9,5 +9,7 @@ The C. elegans 3D model this was derived from was produced by Dr. Christian Grov
 For full details on running this neuroConstruct project see: 
 https://github.com/openworm/OpenWorm/wiki/Running-the-C.-elegans-model-in-neuroConstruct.
 
+Additional details on regenerating the NeuroML2 files with libNeuroML are here:
+https://github.com/openworm/OpenWorm/wiki/Regenerate-the-connectome-in-NeuroML-format
 
 
